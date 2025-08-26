@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>写真表示の例</title>
+</head>
+<body>
+  <h1>写真表示の例</h1>
+  <img src="photo.jpg" alt="サンプル写真" width="500" height="300">
+</body>
+</html>
+
