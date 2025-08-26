@@ -1,15 +1,13 @@
-body {
-   background-color: #9271a7;
-}
-<style>
-  hr {
-    border-top: 2px solid #f00;
-  }
-</style>
-<hr>
-<style>
-.grey{
-    color: #808080;
-}
-</style>
-<p class="grey">2025-08-09</p>
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>写真表示の例</title>
+</head>
+<body>
+  <h1>写真表示の例</h1>
+  <img src="photo.jpg" alt="サンプル写真" width="500" height="300">
+</body>
+</html>
+
